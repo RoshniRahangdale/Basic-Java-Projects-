@@ -3,3 +3,5 @@ PS C:\JAVA PROJECTS> javac ATMproject/*.java
 PS C:\JAVA PROJECTS> java ATMproject.Main
 
 
+compact folder --folder inside folder shows in one line
+setting --serach compact folder ---disable the option
