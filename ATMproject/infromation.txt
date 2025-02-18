@@ -1,0 +1,5 @@
+These are the commands to run ATMproject 
+PS C:\JAVA PROJECTS> javac ATMproject/*.java
+PS C:\JAVA PROJECTS> java ATMproject.Main
+
+
